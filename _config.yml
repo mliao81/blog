@@ -44,8 +44,8 @@ permalink: /:title
 
 # gems and other configs
 plugins_dir: [_plugins]
-plugins: [jekyll-paginate] 
-plugins: [jekyll-feed]
+plugins: [jekyll-paginate, jekyll-feed]
+gems:  [jekyll-paginate]
 plugins:
   - jekyll-seo-tag
 
