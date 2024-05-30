@@ -11,7 +11,7 @@ baseurl: "/blog/"
 # Website info
 title: Michelle Liao
 description: Student
-cover: assets/images/blog-cover.jpeg
+cover: assets/images/blog-cover.png
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
